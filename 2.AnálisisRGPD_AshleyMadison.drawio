@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T23:30:42.839Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="1n7MFWP8fHswFtuqs9nh" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T23:45:53.875Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="171dtPlzWpT4h3_NoUNQ" version="22.1.5" type="github">
   <diagram name="Page-1" id="281KWQ_vz6D9ApKIW97s">
     <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="1">
       <root>
@@ -359,8 +359,51 @@
         <mxCell id="ljyijP0kOlmSLUWHq39t-115" value="2. Análisis RGPD respecto al caso Ashley Madison" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1119.25" y="1380" width="930" height="704" as="geometry" />
         </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="170" />
+              <mxPoint x="91" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ljyijP0kOlmSLUWHq39t-115" source="ljyijP0kOlmSLUWHq39t-116" target="ljyijP0kOlmSLUWHq39t-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-116" value="Incumplimientos en varios artículos del RGPD:" style="whiteSpace=wrap;strokeWidth=2;" parent="ljyijP0kOlmSLUWHq39t-115" vertex="1">
-          <mxGeometry x="17.0974930362117" y="86" width="179.26462395543177" height="35" as="geometry" />
+          <mxGeometry x="10.747493036211699" y="60" width="179.26462395543177" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-117" value="Artículo 5: Principios relativos al Tratamiento." style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="ljyijP0kOlmSLUWHq39t-115" vertex="1">
           <mxGeometry x="327.96100278551535" y="86" width="179.78272980501393" height="35" as="geometry" />
