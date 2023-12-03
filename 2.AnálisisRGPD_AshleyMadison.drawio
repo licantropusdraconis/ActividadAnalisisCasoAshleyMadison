@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T23:47:37.411Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4AZBX9AIdh31u6duGLJU" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T23:49:37.047Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Zv98E9hVJrneOkGDMQV9" version="22.1.5" type="github">
   <diagram name="Page-1" id="281KWQ_vz6D9ApKIW97s">
-    <mxGraphModel dx="819" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="1">
+    <mxGraphModel dx="1687" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,22 +308,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-102" value="4. Referencias" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1305" y="2440" width="520" height="391" as="geometry" />
+          <mxGeometry x="1220" y="2530" width="760" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="ljyijP0kOlmSLUWHq39t-103" value="Corrales, G. (2015). [El caso Ashley Madison: el &#39;hackeo&#39; que desnudó a 39 millones de infieles.&#39;](https://www.nacion.com/tecnologia/internet/el-caso-ashley-madison-el-hackeo-que-desnudo-a-39-millones-de-infieles/7QWUS3A4SNDQDLICN4YJANGGHU/story/)" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
-          <mxGeometry x="8.87" y="37.78" width="506.56" height="52.22" as="geometry" />
+        <mxCell id="ljyijP0kOlmSLUWHq39t-103" value="Corrales, G. (2015). [El caso Ashley Madison: el &#39;hackeo&#39; que desnudó a 39 millones de infieles.&#39;](https://www.nacion.com/tecnologia/internet/el-caso-ashley-madison-el-hackeo-que-desnudo-a-39-millones-de-infieles/7QWUS3A4SNDQDLICN4YJANGGHU/story/)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
+          <mxGeometry x="12.963846153846152" y="53.143222506393876" width="740.3569230769231" height="73.45524296675194" as="geometry" />
         </mxCell>
-        <mxCell id="ljyijP0kOlmSLUWHq39t-104" value="Pandasecurity. (2018). [Una red de citas y lecciones de ciberseguridad empresarial.&#39;](https://www.pandasecurity.com/es/mediacenter/aprender-de-ashley-madison/)" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
-          <mxGeometry x="95.26" y="101" width="325.44" height="47.53" as="geometry" />
+        <mxCell id="ljyijP0kOlmSLUWHq39t-104" value="Pandasecurity. (2018). [Una red de citas y lecciones de ciberseguridad empresarial.&#39;](https://www.pandasecurity.com/es/mediacenter/aprender-de-ashley-madison/)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
+          <mxGeometry x="139.22615384615384" y="142.07161125319698" width="475.64307692307693" height="66.85805626598467" as="geometry" />
         </mxCell>
-        <mxCell id="ljyijP0kOlmSLUWHq39t-105" value="Riquelme, R. (2017). [Ashley Madison propone acuerdo de 11.2 mdd por hackeo.&#39;](https://www.eleconomista.com.mx/tecnologia/Ashley-Madison-propone-acuerdo-de-11.2-mdd-por-hackeo-20170717-0088.html)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
-          <mxGeometry x="56.160000000000004" y="161" width="411.97" height="52.85" as="geometry" />
+        <mxCell id="ljyijP0kOlmSLUWHq39t-105" value="Riquelme, R. (2017). [Ashley Madison propone acuerdo de 11.2 mdd por hackeo.&#39;](https://www.eleconomista.com.mx/tecnologia/Ashley-Madison-propone-acuerdo-de-11.2-mdd-por-hackeo-20170717-0088.html)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
+          <mxGeometry x="82.08000000000001" y="226.47058823529414" width="602.11" height="74.34143222506397" as="geometry" />
         </mxCell>
-        <mxCell id="ljyijP0kOlmSLUWHq39t-106" value="Titova, V. (2016). [El karma al acecho: Ashley Madison.&#39;](https://www.kaspersky.es/blog/ashley-madison-one-year-after/8805/)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
-          <mxGeometry x="136.51000000000002" y="230.99999999999997" width="251.27" height="48.16" as="geometry" />
+        <mxCell id="ljyijP0kOlmSLUWHq39t-106" value="Titova, V. (2016). [El karma al acecho: Ashley Madison.&#39;](https://www.kaspersky.es/blog/ashley-madison-one-year-after/8805/)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
+          <mxGeometry x="199.51461538461544" y="324.9360613810742" width="367.2407692307693" height="67.74424552429669" as="geometry" />
         </mxCell>
-        <mxCell id="ljyijP0kOlmSLUWHq39t-107" value="welivesecurity. (2015). [Caso Ashley Madison: la cronología de los hechos.&#39;](https://www.welivesecurity.com/la-es/2015/08/31/caso-ashley-madison-cronologia/)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
-          <mxGeometry x="103.58999999999999" y="291" width="317.11" height="53.48" as="geometry" />
+        <mxCell id="ljyijP0kOlmSLUWHq39t-107" value="welivesecurity. (2015). [Caso Ashley Madison: la cronología de los hechos.&#39;](https://www.welivesecurity.com/la-es/2015/08/31/caso-ashley-madison-cronologia/)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
+          <mxGeometry x="151.4007692307692" y="409.3350383631714" width="463.4684615384615" height="75.22762148337598" as="geometry" />
         </mxCell>
         <mxCell id="du-RNCgULpHhjC7suBuA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#77767b;strokeWidth=8;" edge="1" parent="1" source="ljyijP0kOlmSLUWHq39t-108" target="ljyijP0kOlmSLUWHq39t-102">
           <mxGeometry relative="1" as="geometry" />
