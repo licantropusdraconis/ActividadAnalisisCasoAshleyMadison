@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2023-12-03T20:23:21.429Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="GGqGL_Wsl1Ygsc1yzZsN" version="22.1.5" type="github">
+  <diagram name="Page-1" id="281KWQ_vz6D9ApKIW97s">
+    <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="exDdUY9-8li77esu1dYq-1" value="Investigación del Caso" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="118" y="40" width="173" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-2" value="Determinar si es una Violación de Seguridad" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="40" y="125" width="330" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-3" value="Evaluar la Obligación de Notificación" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="65" y="210" width="279" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-4" value="Consultar RGPD y Guía AEPD" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="96" y="295" width="218" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-5" value="Consultar Anexo III de la guía AEPD" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="72" y="380" width="266" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-6" value="Elaborar un Informe o Resumen" style="whiteSpace=wrap;strokeWidth=2;fillStyle=solid;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="85" y="465" width="240" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5034682433729227;exitY=1;entryX=0.5003030487985322;entryY=0;rounded=0;" edge="1" parent="1" source="exDdUY9-8li77esu1dYq-1" target="exDdUY9-8li77esu1dYq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5003030487985322;exitY=1;entryX=0.5021505595108087;entryY=0;rounded=0;" edge="1" parent="1" source="exDdUY9-8li77esu1dYq-2" target="exDdUY9-8li77esu1dYq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5021505595108087;exitY=1;entryX=0.5004587435941084;entryY=0;rounded=0;" edge="1" parent="1" source="exDdUY9-8li77esu1dYq-3" target="exDdUY9-8li77esu1dYq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5004587435941084;exitY=1;entryX=0.5003759627951715;entryY=0;rounded=0;" edge="1" parent="1" source="exDdUY9-8li77esu1dYq-4" target="exDdUY9-8li77esu1dYq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exDdUY9-8li77esu1dYq-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5003759627951715;exitY=1;entryX=0.5004166920979818;entryY=0;rounded=0;" edge="1" parent="1" source="exDdUY9-8li77esu1dYq-5" target="exDdUY9-8li77esu1dYq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
