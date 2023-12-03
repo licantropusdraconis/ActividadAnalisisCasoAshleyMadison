@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T23:11:17.181Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="igJGS92N_IntEQUOFLsM" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T23:28:17.841Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="WhGnTRW8QW1-RantUuhS" version="22.1.5" type="github">
   <diagram name="Page-1" id="281KWQ_vz6D9ApKIW97s">
     <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="1">
       <root>
@@ -308,7 +308,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-102" value="4. Referencias" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1300" y="2400" width="520" height="391" as="geometry" />
+          <mxGeometry x="1305" y="2440" width="520" height="391" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-103" value="Corrales, G. (2015). [El caso Ashley Madison: el &#39;hackeo&#39; que desnudó a 39 millones de infieles.&#39;](https://www.nacion.com/tecnologia/internet/el-caso-ashley-madison-el-hackeo-que-desnudo-a-39-millones-de-infieles/7QWUS3A4SNDQDLICN4YJANGGHU/story/)" style="whiteSpace=wrap;strokeWidth=2;fontSize=10;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
           <mxGeometry x="8.87" y="37.78" width="506.56" height="52.22" as="geometry" />
@@ -325,8 +325,11 @@
         <mxCell id="ljyijP0kOlmSLUWHq39t-107" value="welivesecurity. (2015). [Caso Ashley Madison: la cronología de los hechos.&#39;](https://www.welivesecurity.com/la-es/2015/08/31/caso-ashley-madison-cronologia/)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="ljyijP0kOlmSLUWHq39t-102" vertex="1">
           <mxGeometry x="103.58999999999999" y="291" width="317.11" height="53.48" as="geometry" />
         </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#77767b;strokeWidth=8;" edge="1" parent="1" source="ljyijP0kOlmSLUWHq39t-108" target="ljyijP0kOlmSLUWHq39t-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-108" value="3. Evaluación de obligación de notificación y mitigación de riesgos" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1190" y="2150" width="830" height="190" as="geometry" />
+          <mxGeometry x="1178" y="2170" width="830" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-109" value="Según el RGPD, se debió notificar a los usuarios sobre la filtración." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" parent="ljyijP0kOlmSLUWHq39t-108" vertex="1">
           <mxGeometry x="537.9837618403249" y="43" width="277.9769959404601" height="35" as="geometry" />
@@ -349,6 +352,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;strokeColor=#B5B5B5;" edge="1" parent="1" source="ljyijP0kOlmSLUWHq39t-115" target="ljyijP0kOlmSLUWHq39t-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-115" value="2. Análisis RGPD respecto al caso Ashley Madison" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1119.25" y="1380" width="930" height="704" as="geometry" />
@@ -521,6 +527,14 @@
         <mxCell id="ljyijP0kOlmSLUWHq39t-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ljyijP0kOlmSLUWHq39t-149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2100" y="1215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du-RNCgULpHhjC7suBuA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5B5B5;strokeWidth=8;" edge="1" parent="1" source="ljyijP0kOlmSLUWHq39t-149" target="ljyijP0kOlmSLUWHq39t-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1620" y="1360" />
+              <mxPoint x="1620" y="1360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ljyijP0kOlmSLUWHq39t-149" value="1. Caso Ashley Madison" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=24;" parent="1" vertex="1">
